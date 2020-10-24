@@ -26,6 +26,7 @@ namespace Semana2DCardenas
             else
             {
                 DisplayAlert("Error", "Acceso no Autorizado", "ok");
+
             }
         }
     }
